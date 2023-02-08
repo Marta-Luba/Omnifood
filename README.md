@@ -1,7 +1,8 @@
 # OMNIFOOD- healthy food delivery app
 > Website project based on online course 
 
-##Check Here ==> https://omnifood-martaluba.netlify.app/
+##Check Here ==> https://marta-luba.github.io/Omnifood/
+
 
 ##Technologies
 * HTML, CSS
